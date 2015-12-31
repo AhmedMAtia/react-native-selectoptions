@@ -123,6 +123,7 @@ For complete implementation checkout example folder.
 
 | Property | Type | Default | Description |
 |-----------|--------|---------|--------------------------------------------|
+| value | string | null | Value of selected option |
 | style | object | null | Styles to be applied on 'Option' component |
 | styleText | object |  null | Styles to be applied on text inside of 'Option'  |
 
